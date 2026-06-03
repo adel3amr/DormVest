@@ -1,2 +1,13 @@
 # DormVest
-DormVest is a tokenized student-housing investment platform that enables fractional access to rental income across major European university cities. Combining blockchain infrastructure, smart-contract-based ownership, portfolio analytics, and risk scoring, it democratizes access to real estate investing.
+
+Tokenized student-housing investment demo app.
+
+## Run locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Demo login:
+- Email: demo@dormvest.app
+- Password: demo
